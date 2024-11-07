@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hypixel Forge Calculator</title>
+  <link rel="stylesheet" href="./src/style.css">
+  <script type="module" src="./src/main.ts" defer></script>
+</head>
+
+<body>
+
+  <main>
+    <div>
+      <h1 class="left-header mc-font">
+        <span>Select a forge item:</span>
+        <div>
+          <span>Depth:</span>
+          <input id="pref-depth" type="number" min="-1" max="12" step="1" value="-1">
+        </div>
+      </h1>
+      <div id="forge-items"></div>
+    </div>
+
+    <div>
+      <h1 class="fg-header mc-font">
+        <img id="res-img" src="">
+        <div><span id="res-item" style="color: #FF55FF;"></span><span id="res-hotm"></span></div>
+      </h1>
+      <table>
+        <caption class="mc-font">Profit Margins</caption>
+        <thead>
+          <tr>
+            <th></th>
+            <th>Cost</th>
+            <th>Profit</th>
+          </tr>
+        </thead>
+        <tbody id="res-profit"></tbody>
+      </table>
+      <table>
+        <caption class="mc-font">Materials</caption>
+        <thead>
+          <tr>
+            <th>From</th>
+            <th>Item Name</th>
+            <th>Quantity</th>
+            <th>Coins</th>
+          </tr>
+        </thead>
+        <tbody id="res-mats"></tbody>
+      </table>
+      <table>
+        <caption class="mc-font">Time Chart</caption>
+        <thead>
+          <tr>
+            <th>Slots</th>
+            <th>Base Time</th>
+            <th>+ Quick Forge</th>
+            <th>+ Cole</th>
+          </tr>
+        </thead>
+        <tbody id="res-time"></tbody>
+      </table>
+    </div>
+  </main>
+
+  <div id="ah-popup" class="popup" style="display: none">
+    <div>
+      <h3>Refreshing auctions...</h3>
+      <div class="progress">
+        <div id="ah-progress"></div>
+        <span id="ah-progress-label"></span>
+      </div>
+    </div>
+  </div>
+  <div id="bz-popup" class="popup" style="display: none">
+    <div>
+      <h3>Refreshing bazaar...</h3>
+      <div class="progress"></div>
+    </div>
+  </div>
+
+  <div class="error-notifs"></div>
+
+</body>
+
+</html>

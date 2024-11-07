@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+:root {
+  /* font-family: 'Jersey 10', sans-serif; */
+  font-family: 'Mona Sans', sans-serif;
+}
+body {
+  background: #1a1a1a;
+  color: #fff;
+}
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: auto auto 10pt auto;
+}
+
+.mc-font {
+  font-family: 'Jersey 10', sans-serif;
+}
+
+div.popup {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: '';
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #00000080;
+  backdrop-filter: blur(2pt);
+  z-index: 1;
+}
+div.popup > div {
+  display: flex;
+  flex-direction: column;
+  z-index: 2;
+  width: fit-content;
+  padding: 20pt;
+  background: #1a1a1a;
+  border-radius: 5pt;
+}
+
+div.progress {
+  position: relative;
+  width: 100%;
+  height: 15pt;
+  background: #ffc37630;
+  border-radius: 2pt;
+  user-select: none;
+}
+div.progress > span {
+  position: absolute;
+  font-size: 12pt;
+  color: #1a1a1a;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+div.progress > div {
+  position: absolute;
+  content: '';
+  width: 0%;
+  height: 15pt;
+  background: #ffc376;
+  border-radius: 2pt;
+  transition: width 0.3s ease-in-out;
+}
+
+div.error-notifs {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  bottom: 0;
+  right: 5pt;
+  z-index: 3;
+  align-items: end;
+}
+div.error-notifs > div {
+  display: block;
+  width: fit-content;
+  max-width: 300px;
+  height: auto;
+  padding: 5pt 10pt;
+  background: #000000aa;
+  backdrop-filter: blur(2pt);
+  color: #fc5455;
+  border-radius: 2pt;
+  font-size: 10pt;
+  margin-bottom: 5pt;
+}
+
+.tooltip-hover-right {
+  position: relative;
+  display: block;
+}
+.tooltip-hover-right .tooltip {
+  display: block;
+  position: absolute;
+  font-size: 18pt;
+  top: 5pt;
+  right: 0;
+  background: #0a0a0a;
+  box-shadow: 0 0 5pt #000;
+  padding: 10pt;
+  translate: 100% -20%;
+  width: max-content;
+  max-width: 300px;
+  z-index: 3;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease-out;
+}
+.tooltip-hover-right .tooltip::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  border: 5pt solid transparent;
+  border-right-color: black;
+  transform: translateY(-50%);
+}
+.tooltip-hover-right:hover .tooltip {
+  opacity: 1;
+}
+.tooltip p {
+  display: block;
+  margin: 0;
+}
+
+#forge-items > div {
+  display: inline-block;
+  margin: 0 5pt 5pt 0;
+  cursor: pointer;
+  user-select: none;
+}
+#forge-items img {
+  width: 48pt;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20pt 0;
+  text-align: center;
+  font-family: monospace;
+  border: 1px solid #3a3a3a;
+  box-shadow: 0 0 5pt #000;
+}
+table caption {
+  font-size: 16pt;
+}
+table td,
+table th {
+  padding: 2pt 3pt;
+}
+table th {
+  border-bottom: 1px solid #3a3a3a;
+}
+
+h1.fg-header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+h1.fg-header * {
+  margin-left: 3pt;
+}
+h1.fg-header > img {
+  width: 48pt;
+}
+h1.fg-header > div {
+  align-items: end;
+}
+h1.fg-header #res-hotm {
+  font-size: 12pt;
+  color: #5a5a5a;
+}
+
+h1.left-header {
+  display: inline-block;
+  width: 100%;
+}
+h1.left-header > span {
+  float: left;
+}
+h1.left-header > div {
+  float: right;
+}
+h1.left-header input {
+  width: 48pt;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 16pt;
+  text-align: center;
+}
