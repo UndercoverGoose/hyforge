@@ -113,7 +113,7 @@ forge_depth.addEventListener('input', () => last_checked?.());
 let auction_data: AuctionRecord = JSON.parse(localStorage.getItem('auction_data') || '{}');
 let bazaar_data: BazaarRecord = JSON.parse(localStorage.getItem('bazaar_data') || '{}');
 
-if (!auction_data.items || auction_data.generated_at + 3_000_000 < Date.now()) {
+if (!auction_data.items || auction_data.generated_at + 600_000 < Date.now()) {
   auction_data = await get_lowest_bins();
   localStorage.setItem('auction_data', JSON.stringify(auction_data));
 }
