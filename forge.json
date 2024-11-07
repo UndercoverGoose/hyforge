@@ -1,0 +1,1371 @@
+{
+  "Refined Diamond": {
+    "img": "https://wiki.hypixel.net/images/2/2d/SkyBlock_items_refined_diamond.png",
+    "hotm": 2,
+    "ref": "BZ:REFINED_DIAMOND",
+    "input": {
+      "BZ:ENCHANTED_DIAMOND_BLOCK": 2
+    },
+    "time": "8h",
+    "rarity": "EPIC"
+  },
+  "Refined Mithril": {
+    "img": "https://wiki.hypixel.net/images/b/b8/SkyBlock_items_refined_mithril.png",
+    "hotm": 2,
+    "ref": "BZ:REFINED_MITHRIL",
+    "input": {
+      "BZ:ENCHANTED_MITHRIL": 160
+    },
+    "time": "6h",
+    "rarity": "EPIC"
+  },
+  "Refined Titanium": {
+    "img": "https://wiki.hypixel.net/images/b/b9/SkyBlock_items_refined_titanium.png",
+    "hotm": 2,
+    "ref": "BZ:REFINED_TITANIUM",
+    "input": {
+      "BZ:ENCHANTED_TITANIUM": 16
+    },
+    "time": "12h",
+    "rarity": "LEGENDARY"
+  },
+  "Refined Umber": {
+    "img": "https://wiki.hypixel.net/images/a/ae/SkyBlock_items_refined_umber.png",
+    "hotm": 7,
+    "ref": "BZ:REFINED_UMBER",
+    "input": {
+      "BZ:ENCHANTED_UMBER": 160
+    },
+    "time": "1h",
+    "rarity": "EPIC"
+  },
+  "Refined Tungsten": {
+    "img": "https://wiki.hypixel.net/images/9/90/SkyBlock_items_refined_tungsten.png",
+    "hotm": 7,
+    "ref": "BZ:REFINED_TUNGSTEN",
+    "input": {
+      "BZ:ENCHANTED_TUNGSTEN": 160
+    },
+    "time": "1h",
+    "rarity": "EPIC"
+  },
+  "Bejeweled Handle": {
+    "img": "https://wiki.hypixel.net/images/1/13/SkyBlock_items_enchanted_stick.gif",
+    "hotm": 2,
+    "ref": "BZ:BEJEWELED_HANDLE",
+    "input": {
+      "BZ:GLACITE_JEWEL": 3
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Drill Motor": {
+    "img": "https://wiki.hypixel.net/images/a/a1/SkyBlock_items_drill_engine.png",
+    "hotm": 2,
+    "ref": "BZ:DRILL_ENGINE",
+    "input": {
+      "BZ:TREASURITE": 10,
+      "BZ:ENCHANTED_IRON_BLOCK": 1,
+      "BZ:ENCHANTED_REDSTONE_BLOCK": 3,
+      "Golden Plate": 1
+    },
+    "time": "1d 6h",
+    "rarity": "RARE"
+  },
+  "Fuel Canister": {
+    "img": "https://wiki.hypixel.net/images/8/85/SkyBlock_items_fuel_tank.png",
+    "hotm": 2,
+    "ref": "BZ:FUEL_TANK",
+    "input": {
+      "BZ:ENCHANTED_COAL_BLOCK": 2
+    },
+    "time": "10h",
+    "rarity": "RARE"
+  },
+  "Gemstone Mixture": {
+    "img": "https://wiki.hypixel.net/images/d/d7/SkyBlock_items_gemstone_mixture.png",
+    "hotm": 4,
+    "ref": "BZ:GEMSTONE_MIXTURE",
+    "input": {
+      "BZ:FINE_JADE_GEM": 4,
+      "BZ:FINE_AMBER_GEM": 4,
+      "BZ:FINE_AMETHYST_GEM": 4,
+      "BZ:FINE_SAPPHIRE_GEM": 4,
+      "BZ:SLUDGE_JUICE": 320
+    },
+    "time": "4h",
+    "rarity": "RARE"
+  },
+  "Glacite Amalgamation": {
+    "img": "https://wiki.hypixel.net/images/8/8b/SkyBlock_items_glacite_amalgamation.png",
+    "hotm": 7,
+    "ref": "BZ:GLACITE_AMALGAMATION",
+    "input": {
+      "BZ:ENCHANTED_GLACITE": 256,
+      "BZ:FINE_ONYX_GEM": 4,
+      "BZ:FINE_CITRINE_GEM": 4,
+      "BZ:FINE_PERIDOT_GEM": 4,
+      "BZ:FINE_AQUAMARINE_GEM": 4
+    },
+    "time": "4h",
+    "rarity": "EPIC"
+  },
+  "Golden Plate": {
+    "img": "https://wiki.hypixel.net/images/f/f0/SkyBlock_items_golden_plate.png",
+    "hotm": 2,
+    "ref": "BZ:GOLDEN_PLATE",
+    "input": {
+      "Refined Diamond": 1,
+      "BZ:ENCHANTED_GOLD_BLOCK": 2,
+      "BZ:GLACITE_JEWEL": 5
+    },
+    "time": "6h",
+    "rarity": "RARE"
+  },
+  "Mithril Plate": {
+    "img": "https://wiki.hypixel.net/images/5/5d/SkyBlock_items_mithril_plate.png",
+    "hotm": 3,
+    "ref": "BZ:MITHRIL_PLATE",
+    "input": {
+      "Refined Titanium": 1,
+      "Refined Mithril": 5,
+      "Golden Plate": 1,
+      "BZ:ENCHANTED_IRON_BLOCK": 1
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Tungsten Plate": {
+    "img": "https://wiki.hypixel.net/images/c/c7/SkyBlock_items_tungsten_plate.png",
+    "hotm": 7,
+    "ref": "BZ:TUNGSTEN_PLATE",
+    "input": {
+      "Refined Tungsten": 4,
+      "Glacite Amalgamation": 1
+    },
+    "time": "3h",
+    "rarity": "RARE"
+  },
+  "Umber Plate": {
+    "img": "https://wiki.hypixel.net/images/3/38/SkyBlock_items_umber_plate.png",
+    "hotm": 7,
+    "ref": "BZ:UMBER_PLATE",
+    "input": {
+      "Refined Umber": 4,
+      "Glacite Amalgamation": 1
+    },
+    "time": "3h",
+    "rarity": "RARE"
+  },
+  "Perfect Plate": {
+    "img": "https://wiki.hypixel.net/images/3/36/SkyBlock_items_perfect_plate.png",
+    "hotm": 10,
+    "ref": "BZ:PERFECT_PLATE",
+    "input": {
+      "Umber Plate": 1,
+      "Tungsten Plate": 1,
+      "Mithril Plate": 1
+    },
+    "time": "30m",
+    "rarity": "LEGENDARY"
+  },
+  "Mithril Drill SX-R226": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 2,
+    "ref": "Mithril Drill SX-R226",
+    "input": {
+      "Refined Mithril": 3,
+      "Fuel Canister": 1,
+      "Drill Motor": 1
+    },
+    "time": "4h",
+    "rarity": "RARE"
+  },
+  "Mithril Drill SX-R326": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 3,
+    "ref": "Mithril Drill SX-R326",
+    "input": {
+      "Mithril Drill SX-R226": 1,
+      "Golden Plate": 1,
+      "Mithril Plate": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Ruby Drill TX-15": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 4,
+    "ref": "Ruby Drill TX-15",
+    "input": {
+      "BZ:FINE_RUBY_GEM": 6,
+      "Fuel Canister": 1,
+      "Drill Motor": 1
+    },
+    "time": "4h",
+    "rarity": "RARE"
+  },
+  "Gemstone Drill LT-522": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 4,
+    "ref": "Gemstone Drill LT-522",
+    "input": {
+      "Ruby Drill TX-15": 1,
+      "Gemstone Mixture": 3
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Topaz Drill KGR-12": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 5,
+    "ref": "Topaz Drill KGR-12",
+    "input": {
+      "Gemstone Drill LT-522": 1,
+      "BZ:FLAWLESS_TOPAZ_GEM": 1,
+      "Gemstone Mixture": 3,
+      "BZ:MAGMA_CORE": 8
+    },
+    "time": "30s",
+    "rarity": "EPIC"
+  },
+  "Jasper Drill X": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 6,
+    "ref": "Jasper Drill X",
+    "input": {
+      "Topaz Drill KGR-12": 1,
+      "BZ:FLAWLESS_JASPER_GEM": 1,
+      "BZ:TREASURITE": 100,
+      "BZ:MAGMA_CORE": 16
+    },
+    "time": "30s",
+    "rarity": "EPIC"
+  },
+  "Polished Topaz Rod": {
+    "img": "https://wiki.hypixel.net/images/2/24/Minecraft_items_fishing_rod.png",
+    "hotm": 5,
+    "ref": "Polished Topaz Rod",
+    "input": {
+      "BZ:FLAWLESS_TOPAZ_GEM": 2,
+      "Bejeweled Handle": 3
+    },
+    "time": "12h",
+    "rarity": "UNCOMMON"
+  },
+  "Titanium Drill DR-X355": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 5,
+    "ref": "Titanium Drill DR-X355",
+    "input": {
+      "Refined Titanium": 8,
+      "Refined Mithril": 8,
+      "Drill Motor": 1,
+      "Fuel Canister": 1,
+      "Golden Plate": 6
+    },
+    "time": "4h",
+    "rarity": "EPIC"
+  },
+  "Titanium Drill DR-X455": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 5,
+    "ref": "Titanium Drill DR-X455",
+    "input": {
+      "Titanium Drill DR-X355": 1,
+      "Refined Diamond": 10,
+      "Refined Titanium": 12,
+      "Mithril Plate": 5
+    },
+    "time": "30s",
+    "rarity": "EPIC"
+  },
+  "Titanium Drill DR-X555": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 5,
+    "ref": "Titanium Drill DR-X555",
+    "input": {
+      "Titanium Drill DR-X455": 1,
+      "Refined Diamond": 20,
+      "Refined Titanium": 16,
+      "BZ:ENCHANTED_IRON_BLOCK": 2,
+      "Mithril Plate": 10,
+      "BZ:PLASMA": 20
+    },
+    "time": "30s",
+    "rarity": "EPIC"
+  },
+  "Titanium Drill DR-X655": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 6,
+    "ref": "Titanium Drill DR-X655",
+    "input": {
+      "Titanium Drill DR-X555": 1,
+      "BZ:FLAWLESS_RUBY_GEM": 1,
+      "BZ:CORLEONITE": 30,
+      "Refined Diamond": 5,
+      "Refined Titanium": 32,
+      "Gemstone Mixture": 16,
+      "Mithril Plate": 10
+    },
+    "time": "30s",
+    "rarity": "LEGENDARY"
+  },
+  "Chisel": {
+    "img": "https://wiki.hypixel.net/images/d/da/Minecraft_items_armor_stand.png",
+    "hotm": 7,
+    "ref": "Chisel",
+    "input": {
+      "BZ:TUNGSTEN": 64,
+      "Bejeweled Handle": 1
+    },
+    "time": "4h",
+    "rarity": "COMMON"
+  },
+  "Reinforced Chisel": {
+    "img": "https://wiki.hypixel.net/images/d/da/Minecraft_items_armor_stand.png",
+    "hotm": 8,
+    "ref": "Reinforced Chisel",
+    "input": {
+      "Refined Tungsten": 2,
+      "Refined Umber": 2,
+      "Chisel": 1,
+      "Bejeweled Handle": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Glacite-Plated Chisel": {
+    "img": "https://wiki.hypixel.net/images/d/da/Minecraft_items_armor_stand.png",
+    "hotm": 9,
+    "ref": "Glacite-Plated Chisel",
+    "input": {
+      "Glacite Amalgamation": 8,
+      "Reinforced Chisel": 1,
+      "Mithril Plate": 1,
+      "Bejeweled Handle": 1
+    },
+    "time": "30s",
+    "rarity": "EPIC"
+  },
+  "Perfect Chisel": {
+    "img": "https://wiki.hypixel.net/images/1/15/SkyBlock_items_enchanted_armor_stand.gif",
+    "hotm": 10,
+    "ref": "Perfect Chisel",
+    "input": {
+      "Glacite-Plated Chisel": 1,
+      "Perfect Plate": 1,
+      "Bejeweled Handle": 1
+    },
+    "time": "30s",
+    "rarity": "LEGENDARY"
+  },
+  "Divan's Drill": {
+    "img": "https://wiki.hypixel.net/images/e/e1/SkyBlock_items_enchanted_prismarine_shard.gif",
+    "hotm": 7,
+    "ref": "Divan's Drill",
+    "input": {
+      "Divan's Alloy": 1,
+      "Titanium Drill DR-X655": 1,
+      "COINS": 50000000
+    },
+    "time": "30s",
+    "rarity": "MYTHIC"
+  },
+  "Mithril Necklace": {
+    "img": "https://wiki.hypixel.net/images/7/72/SkyBlock_items_mithril_necklace.png",
+    "hotm": 1,
+    "ref": "Mithril Necklace",
+    "input": {
+      "BZ:ENCHANTED_MITHRIL": 3
+    },
+    "time": "1h",
+    "rarity": "UNCOMMON"
+  },
+  "Mithril Cloak": {
+    "img": "https://wiki.hypixel.net/images/5/5a/SkyBlock_items_mithril_cloak.png",
+    "hotm": 1,
+    "ref": "Mithril Cloak",
+    "input": {
+      "BZ:ENCHANTED_MITHRIL": 3
+    },
+    "time": "1h",
+    "rarity": "UNCOMMON"
+  },
+  "Mithril Belt": {
+    "img": "https://wiki.hypixel.net/images/f/fb/SkyBlock_items_mithril_belt.png",
+    "hotm": 1,
+    "ref": "Mithril Belt",
+    "input": {
+      "BZ:ENCHANTED_MITHRIL": 3
+    },
+    "time": "1h",
+    "rarity": "UNCOMMON"
+  },
+  "Mithril Gauntlet": {
+    "img": "https://wiki.hypixel.net/images/b/b7/SkyBlock_items_mithril_gauntlet.png",
+    "hotm": 1,
+    "ref": "Mithril Gauntlet",
+    "input": {
+      "BZ:ENCHANTED_MITHRIL": 3
+    },
+    "time": "1h",
+    "rarity": "UNCOMMON"
+  },
+  "Titanium Necklace": {
+    "img": "https://wiki.hypixel.net/images/5/5c/SkyBlock_items_titanium_necklace.png",
+    "hotm": 3,
+    "ref": "Titanium Necklace",
+    "input": {
+      "BZ:REFINED_MINERAL": 16,
+      "Refined Titanium": 1,
+      "Mithril Necklace": 1
+    },
+    "time": "4h 30m",
+    "rarity": "RARE"
+  },
+  "Titanium Cloak": {
+    "img": "https://wiki.hypixel.net/images/9/9f/SkyBlock_items_titanium_cloak.png",
+    "hotm": 3,
+    "ref": "Titanium Cloak",
+    "input": {
+      "BZ:REFINED_MINERAL": 16,
+      "Refined Titanium": 1,
+      "Mithril Cloak": 1
+    },
+    "time": "4h 30m",
+    "rarity": "RARE"
+  },
+  "Titanium Belt": {
+    "img": "https://wiki.hypixel.net/images/e/ef/SkyBlock_items_titanium_belt.png",
+    "hotm": 3,
+    "ref": "Titanium Belt",
+    "input": {
+      "BZ:REFINED_MINERAL": 16,
+      "Refined Titanium": 1,
+      "Mithril Belt": 1
+    },
+    "time": "4h 30m",
+    "rarity": "RARE"
+  },
+  "Titanium Gauntlet": {
+    "img": "https://wiki.hypixel.net/images/0/05/SkyBlock_items_titanium_gauntlet.png",
+    "hotm": 3,
+    "ref": "Titanium Gauntlet",
+    "input": {
+      "BZ:REFINED_MINERAL": 16,
+      "Refined Titanium": 1,
+      "Mithril Gauntlet": 1
+    },
+    "time": "4h 30m",
+    "rarity": "RARE"
+  },
+  "Titanium Talisman": {
+    "img": "https://wiki.hypixel.net/images/a/ac/SkyBlock_items_titanium_talisman.png",
+    "hotm": 2,
+    "ref": "Titanium Talisman",
+    "input": {
+      "Refined Titanium": 2
+    },
+    "time": "14h",
+    "rarity": "UNCOMMON"
+  },
+  "Titanium Ring": {
+    "img": "https://wiki.hypixel.net/images/e/ec/SkyBlock_items_titanium_ring.png",
+    "hotm": 3,
+    "ref": "Titanium Ring",
+    "input": {
+      "Refined Titanium": 6,
+      "Titanium Talisman": 1
+    },
+    "time": "20h",
+    "rarity": "RARE"
+  },
+  "Titanium Artifact": {
+    "img": "https://wiki.hypixel.net/images/4/42/SkyBlock_items_titanium_artifact.png",
+    "hotm": 4,
+    "ref": "Titanium Artifact",
+    "input": {
+      "Refined Titanium": 12,
+      "Titanium Ring": 1
+    },
+    "time": "1d 12h",
+    "rarity": "EPIC"
+  },
+  "Titanium Relic": {
+    "img": "https://wiki.hypixel.net/images/1/14/SkyBlock_items_titanium_relic.png",
+    "hotm": 5,
+    "ref": "Titanium Relic",
+    "input": {
+      "Refined Titanium": 20,
+      "Titanium Artifact": 1
+    },
+    "time": "3d",
+    "rarity": "LEGENDARY"
+  },
+  "Divan's Powder Coating": {
+    "img": "https://wiki.hypixel.net/images/0/0a/SkyBlock_items_divan_powder_coating.png",
+    "hotm": 4,
+    "ref": "BZ:DIVAN_POWDER_COATING",
+    "input": {
+      "BZ:GLOSSY_GEMSTONE": 32,
+      "BZ:REFINED_MINERAL": 32,
+      "BZ:ENCHANTED_GOLD_BLOCK": 16,
+      "BZ:DIVAN_FRAGMENT": 5
+    },
+    "time": "1d",
+    "rarity": "LEGENDARY"
+  },
+  "Helmet of Divan": {
+    "hotm": 6,
+    "ref": "Helmet of Divan",
+    "input": {
+      "BZ:DIVAN_FRAGMENT": 5,
+      "Gemstone Mixture": 10,
+      "BZ:FLAWLESS_RUBY_GEM": 1
+    },
+    "time": "1d",
+    "rarity": "LEGENDARY"
+  },
+  "Chestplate of Divan": {
+    "hotm": 6,
+    "ref": "Chestplate of Divan",
+    "input": {
+      "BZ:DIVAN_FRAGMENT": 5,
+      "Gemstone Mixture": 10,
+      "BZ:FLAWLESS_RUBY_GEM": 1
+    },
+    "time": "1d",
+    "rarity": "LEGENDARY"
+  },
+  "Leggings of Divan": {
+    "hotm": 6,
+    "ref": "Leggings of Divan",
+    "input": {
+      "BZ:DIVAN_FRAGMENT": 5,
+      "Gemstone Mixture": 10,
+      "BZ:FLAWLESS_RUBY_GEM": 1
+    },
+    "time": "1d",
+    "rarity": "LEGENDARY"
+  },
+  "Boots of Divan": {
+    "hotm": 6,
+    "ref": "Boots of Divan",
+    "input": {
+      "BZ:DIVAN_FRAGMENT": 5,
+      "Gemstone Mixture": 10,
+      "BZ:FLAWLESS_RUBY_GEM": 1
+    },
+    "time": "1d",
+    "rarity": "LEGENDARY"
+  },
+  "Amber Necklace": {
+    "img": "https://wiki.hypixel.net/images/b/bc/SkyBlock_items_amber_necklace.png",
+    "hotm": 5,
+    "ref": "Amber Necklace",
+    "input": {
+      "BZ:GLOSSY_GEMSTONE": 32,
+      "BZ:FLAWLESS_AMBER_GEM": 2
+    },
+    "time": "1d",
+    "rarity": "EPIC"
+  },
+  "Sapphire Cloak": {
+    "img": "https://wiki.hypixel.net/images/1/15/SkyBlock_items_sapphire_cloak.png",
+    "hotm": 5,
+    "ref": "Sapphire Cloak",
+    "input": {
+      "BZ:GLOSSY_GEMSTONE": 32,
+      "BZ:FLAWLESS_SAPPHIRE_GEM": 2
+    },
+    "time": "1d",
+    "rarity": "EPIC"
+  },
+  "Jade Belt": {
+    "img": "https://wiki.hypixel.net/images/a/a9/SkyBlock_items_jade_belt.png",
+    "hotm": 5,
+    "ref": "Jade Belt",
+    "input": {
+      "BZ:GLOSSY_GEMSTONE": 32,
+      "BZ:FLAWLESS_JADE_GEM": 2
+    },
+    "time": "1d",
+    "rarity": "EPIC"
+  },
+  "Amethyst Gauntlet": {
+    "img": "https://wiki.hypixel.net/images/5/5f/SkyBlock_items_amethyst_gauntlet.png",
+    "hotm": 5,
+    "ref": "Amethyst Gauntlet",
+    "input": {
+      "BZ:GLOSSY_GEMSTONE": 32,
+      "BZ:FLAWLESS_AMETHYST_GEM": 2
+    },
+    "time": "1d",
+    "rarity": "EPIC"
+  },
+  "Gemstone Chamber": {
+    "img": "https://wiki.hypixel.net/images/b/b3/SkyBlock_items_gemstone_chamber.png",
+    "hotm": 5,
+    "ref": "Gemstone Chamber",
+    "input": {
+      "BZ:WORM_MEMBRANE": 100,
+      "Gemstone Mixture": 1,
+      "COINS": 25000
+    },
+    "time": "4h",
+    "rarity": "EPIC"
+  },
+  "Dwarven Handwarmers": {
+    "img": "https://wiki.hypixel.net/images/b/be/SkyBlock_items_dwarven_handwarmers.png",
+    "hotm": 8,
+    "ref": "Dwarven Handwarmers",
+    "input": {
+      "Tungsten Plate": 1,
+      "BZ:FLAWLESS_JADE_GEM": 1,
+      "BZ:FLAWLESS_AMBER_GEM": 1,
+      "Umber Plate": 1
+    },
+    "time": "4h",
+    "rarity": "EPIC"
+  },
+  "Dwarven Metal Talisman": {
+    "img": "https://wiki.hypixel.net/images/6/61/SkyBlock_items_dwarven_metal.png",
+    "hotm": 8,
+    "ref": "Dwarven Metal Talisman",
+    "input": {
+      "BZ:DIVAN_FRAGMENT": 10,
+      "Shattered Locket": 1,
+      "Perfect Plate": 1
+    },
+    "time": "1d",
+    "rarity": "UNCOMMON"
+  },
+  "Pendant Of Divan": {
+    "img": "https://wiki.hypixel.net/images/1/18/SkyBlock_items_divan_pendant.png",
+    "hotm": 10,
+    "ref": "Pendant Of Divan",
+    "input": {
+      "Shattered Locket": 1,
+      "Perfect Plate": 1,
+      "BZ:DIVAN_FRAGMENT": 10
+    },
+    "time": "7d",
+    "rarity": "LEGENDARY"
+  },
+  "Relic Of Power": {
+    "img": "https://wiki.hypixel.net/images/d/d7/SkyBlock_items_power_relic.png",
+    "hotm": 10,
+    "ref": "Relic Of Power",
+    "input": {
+      "Glacite Amalgamation": 32,
+      "Artifact of Power": 1,
+      "Perfect Plate": 1
+    },
+    "time": "8h",
+    "rarity": "EPIC"
+  },
+  "Diamonite": {
+    "img": "https://wiki.hypixel.net/images/0/05/SkyBlock_items_diamonite.png",
+    "hotm": 2,
+    "ref": "BZ:DIAMONITE",
+    "input": {
+      "Refined Diamond": 3
+    },
+    "time": "6h",
+    "rarity": "RARE"
+  },
+  "Pocket Iceberg": {
+    "img": "https://wiki.hypixel.net/images/0/0c/SkyBlock_items_pocket_iceberg.png",
+    "hotm": 2,
+    "ref": "BZ:POCKET_ICEBERG",
+    "input": {
+      "BZ:GLACITE_JEWEL": 5
+    },
+    "time": "6h",
+    "rarity": "EPIC"
+  },
+  "Petrified Starfall": {
+    "img": "https://wiki.hypixel.net/images/1/19/SkyBlock_items_petrified_starfall.png",
+    "hotm": 3,
+    "ref": "BZ:PETRIFIED_STARFALL",
+    "input": {
+      "BZ:STARFALL": 512
+    },
+    "time": "6h",
+    "rarity": "EPIC"
+  },
+  "Pure Mithril": {
+    "img": "https://wiki.hypixel.net/images/0/08/SkyBlock_items_pure_mithril.png",
+    "hotm": 3,
+    "ref": "BZ:PURE_MITHRIL",
+    "input": {
+      "Refined Mithril": 2
+    },
+    "time": "6h",
+    "rarity": "RARE"
+  },
+  "Dwarven Geode": {
+    "img": "https://wiki.hypixel.net/images/0/06/SkyBlock_items_rock_gemstone.png",
+    "hotm": 3,
+    "ref": "BZ:ROCK_GEMSTONE",
+    "input": {
+      "BZ:ENCHANTED_COBBLESTONE": 128,
+      "BZ:TREASURITE": 64
+    },
+    "time": "6h",
+    "rarity": "RARE"
+  },
+  "Titanium Tesseract": {
+    "img": "https://wiki.hypixel.net/images/1/15/SkyBlock_items_titanium_tesseract.png",
+    "hotm": 3,
+    "ref": "BZ:TITANIUM_TESSERACT",
+    "input": {
+      "BZ:ENCHANTED_LAPIS_LAZULI": 16,
+      "Refined Titanium": 1
+    },
+    "time": "6h",
+    "rarity": "RARE"
+  },
+  "Gleaming Crystal": {
+    "img": "https://wiki.hypixel.net/images/b/ba/SkyBlock_items_gleaming_crystal.png",
+    "hotm": 4,
+    "ref": "BZ:GLEAMING_CRYSTAL",
+    "input": {
+      "BZ:GLOSSY_GEMSTONE": 32,
+      "Refined Diamond": 1,
+      "Refined Mithril": 1
+    },
+    "time": "6h",
+    "rarity": "EPIC"
+  },
+  "Scorched Topaz": {
+    "img": "https://wiki.hypixel.net/images/a/ad/SkyBlock_items_hot_stuff.png",
+    "hotm": 4,
+    "ref": "BZ:SCORCHED_TOPAZ",
+    "input": {
+      "BZ:ENCHANTED_HARD_STONE": 128,
+      "BZ:FLAWLESS_TOPAZ_GEM": 1
+    },
+    "time": "6h",
+    "rarity": "LEGENDARY"
+  },
+  "Amber Material": {
+    "img": "https://wiki.hypixel.net/images/1/12/SkyBlock_items_amber_material.png",
+    "hotm": 6,
+    "ref": "BZ:AMBER_MATERIAL",
+    "input": {
+      "BZ:FINE_AMBER_GEM": 12,
+      "Golden Plate": 1
+    },
+    "time": "6h",
+    "rarity": "RARE"
+  },
+  "Frigid Husk": {
+    "img": "https://wiki.hypixel.net/images/c/c7/SkyBlock_items_frigid_husk.png",
+    "hotm": 7,
+    "ref": "BZ:FRIGID_HUSK",
+    "input": {
+      "Glacite Amalgamation": 4,
+      "BZ:FLAWLESS_ONYX_GEM": 1
+    },
+    "time": "6h",
+    "rarity": "LEGENDARY"
+  },
+  "Starfall Seasoning": {
+    "img": "https://wiki.hypixel.net/images/f/f1/SkyBlock_items_starfall_seasoning.png",
+    "hotm": 2,
+    "ref": "Starfall Seasoning",
+    "input": {
+      "BZ:STARFALL": 64,
+      "BZ:TREASURITE": 16
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Goblin Omelette": {
+    "img": "https://wiki.hypixel.net/images/2/20/SkyBlock_items_goblin_omelette.png",
+    "hotm": 3,
+    "ref": "Goblin Omelette",
+    "input": {
+      "BZ:GOBLIN_EGG": 96
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Spicy Goblin Omelette": {
+    "img": "https://wiki.hypixel.net/images/b/b8/SkyBlock_items_goblin_omelette_spicy.png",
+    "hotm": 5,
+    "ref": "Spicy Goblin Omelette",
+    "input": {
+      "BZ:GOBLIN_EGG_RED": 96,
+      "BZ:FLAWLESS_RUBY_GEM": 1,
+      "Goblin Omelette": 1
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Pesto Goblin Omelette": {
+    "img": "https://wiki.hypixel.net/images/c/cc/SkyBlock_items_goblin_omelette_pesto.png",
+    "hotm": 5,
+    "ref": "Pesto Goblin Omelette",
+    "input": {
+      "BZ:GOBLIN_EGG_GREEN": 96,
+      "BZ:FLAWLESS_JADE_GEM": 1,
+      "Goblin Omelette": 1
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Sunny Side Goblin Omelette": {
+    "img": "https://wiki.hypixel.net/images/1/1c/SkyBlock_items_goblin_omelette_sunny_side.png",
+    "hotm": 5,
+    "ref": "Sunny Side Goblin Omelette",
+    "input": {
+      "BZ:GOBLIN_EGG_YELLOW": 96,
+      "BZ:FLAWLESS_TOPAZ_GEM": 1,
+      "Goblin Omelette": 1
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Blue Cheese Goblin Omelette": {
+    "img": "https://wiki.hypixel.net/images/1/15/SkyBlock_items_goblin_omelette_blue_cheese.png",
+    "hotm": 5,
+    "ref": "Blue Cheese Goblin Omelette",
+    "input": {
+      "BZ:GOBLIN_EGG_BLUE": 96,
+      "BZ:FLAWLESS_SAPPHIRE_GEM": 1,
+      "Goblin Omelette": 1
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Tungsten Regulator": {
+    "img": "https://wiki.hypixel.net/images/e/e9/SkyBlock_items_tungsten_keychain.png",
+    "hotm": 8,
+    "ref": "Tungsten Regulator",
+    "input": {
+      "Fuel Canister": 5,
+      "Tungsten Plate": 5,
+      "Perfect Opal Gemstone": 1
+    },
+    "time": "18h",
+    "rarity": "RARE"
+  },
+  "Mithril-Plated Drill Engine": {
+    "img": "https://wiki.hypixel.net/images/0/0b/SkyBlock_items_mithril_drill_engine.png",
+    "hotm": 3,
+    "ref": "Mithril-Plated Drill Engine",
+    "input": {
+      "Drill Motor": 2,
+      "Mithril Plate": 1
+    },
+    "time": "1d",
+    "rarity": "RARE"
+  },
+  "Titanium-Plated Drill Engine": {
+    "img": "https://wiki.hypixel.net/images/3/3a/SkyBlock_items_titanium_drill_engine.png",
+    "hotm": 5,
+    "ref": "Titanium-Plated Drill Engine",
+    "input": {
+      "Refined Titanium": 8,
+      "Drill Motor": 2,
+      "Mithril-Plated Drill Engine": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Ruby-Polished Drill Engine": {
+    "img": "https://wiki.hypixel.net/images/c/c3/SkyBlock_items_ruby_polished_drill_engine.png",
+    "hotm": 7,
+    "ref": "Ruby-Polished Drill Engine",
+    "input": {
+      "Drill Motor": 5,
+      "BZ:PRECURSOR_APPARATUS": 4,
+      "Titanium-Plated Drill Engine": 1,
+      "Perfect Ruby Gemstone": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Sapphire-Polished Drill Engine": {
+    "img": "https://wiki.hypixel.net/images/f/fc/SkyBlock_items_sapphire_polished_drill_engine.png",
+    "hotm": 8,
+    "ref": "Sapphire-Polished Drill Engine",
+    "input": {
+      "BZ:PLASMA": 16,
+      "BZ:PRECURSOR_APPARATUS": 8,
+      "Drill Motor": 5,
+      "Perfect Sapphire Gemstone": 3,
+      "Ruby-Polished Drill Engine": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Amber-Polished Drill Engine": {
+    "img": "https://wiki.hypixel.net/images/4/4f/SkyBlock_items_amber_polished_drill_engine.png",
+    "hotm": 9,
+    "ref": "Amber-Polished Drill Engine",
+    "input": {
+      "BZ:PLASMA": 32,
+      "BZ:PRECURSOR_APPARATUS": 16,
+      "Perfect Amber Gemstone": 5,
+      "Drill Motor": 5,
+      "Sapphire-Polished Drill Engine": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Mithril-Infused Fuel Tank": {
+    "img": "https://wiki.hypixel.net/images/e/e8/SkyBlock_items_mithril_fuel_tank.png",
+    "hotm": 3,
+    "ref": "Mithril-Infused Fuel Tank",
+    "input": {
+      "Refined Diamond": 5,
+      "Refined Mithril": 10,
+      "Fuel Canister": 5
+    },
+    "time": "1d",
+    "rarity": "RARE"
+  },
+  "Titanium-Infused Fuel Tank": {
+    "img": "https://wiki.hypixel.net/images/c/c5/SkyBlock_items_titanium_fuel_tank.png",
+    "hotm": 5,
+    "ref": "Titanium-Infused Fuel Tank",
+    "input": {
+      "Refined Titanium": 10,
+      "Refined Diamond": 5,
+      "Fuel Canister": 5,
+      "Mithril-Infused Fuel Tank": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Gemstone Fuel Tank": {
+    "img": "https://wiki.hypixel.net/images/0/0b/SkyBlock_items_gemstone_fuel_tank.png",
+    "hotm": 7,
+    "ref": "Gemstone Fuel Tank",
+    "input": {
+      "Gemstone Mixture": 10,
+      "BZ:PRECURSOR_APPARATUS": 4,
+      "Titanium-Infused Fuel Tank": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Perfectly-Cut Fuel Tank": {
+    "img": "https://wiki.hypixel.net/images/e/eb/SkyBlock_items_perfectly_cut_fuel_tank.png",
+    "hotm": 8,
+    "ref": "Perfectly-Cut Fuel Tank",
+    "input": {
+      "BZ:PLASMA": 32,
+      "Gemstone Mixture": 25,
+      "BZ:PRECURSOR_APPARATUS": 16,
+      "Gemstone Fuel Tank": 1
+    },
+    "time": "30s",
+    "rarity": "RARE"
+  },
+  "Perfect Amber Gemstone": {
+    "img": "https://wiki.hypixel.net/images/9/9e/SkyBlock_items_perfect_amber_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_AMBER_GEM",
+    "input": {
+      "BZ:FLAWLESS_AMBER_GEM": 5,
+      "NULL:Amber Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Amethyst Gemstone": {
+    "img": "https://wiki.hypixel.net/images/7/78/SkyBlock_items_perfect_amethyst_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_AMETHYST_GEM",
+    "input": {
+      "BZ:FLAWLESS_AMETHYST_GEM": 5,
+      "NULL:Amethyst Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Jade Gemstone": {
+    "img": "https://wiki.hypixel.net/images/b/b3/SkyBlock_items_perfect_jade_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_JADE_GEM",
+    "input": {
+      "BZ:FLAWLESS_JADE_GEM": 5,
+      "NULL:Jade Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Jasper Gemstone": {
+    "img": "https://wiki.hypixel.net/images/b/be/SkyBlock_items_perfect_jasper_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_JASPER_GEM",
+    "input": {
+      "BZ:FLAWLESS_JASPER_GEM": 5,
+      "NULL:Jasper Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Opal Gemstone": {
+    "img": "https://wiki.hypixel.net/images/f/f3/SkyBlock_items_perfect_opal_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_OPAL_GEM",
+    "input": {
+      "BZ:FLAWLESS_OPAL_GEM": 5,
+      "NULL:Opal Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Ruby Gemstone": {
+    "img": "https://wiki.hypixel.net/images/c/c7/SkyBlock_items_perfect_ruby_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_RUBY_GEM",
+    "input": {
+      "BZ:FLAWLESS_RUBY_GEM": 5,
+      "NULL:Opal Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Sapphire Gemstone": {
+    "img": "https://wiki.hypixel.net/images/7/73/SkyBlock_items_perfect_sapphire_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_SAPPHIRE_GEM",
+    "input": {
+      "BZ:FLAWLESS_SAPPHIRE_GEM": 5,
+      "NULL:Sapphire Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Topaz Gemstone": {
+    "img": "https://wiki.hypixel.net/images/4/4a/SkyBlock_items_perfect_topaz_gem.png",
+    "hotm": 5,
+    "ref": "BZ:PERFECT_TOPAZ_GEM",
+    "input": {
+      "BZ:FLAWLESS_TOPAZ_GEM": 5,
+      "NULL:Topaz Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Onyx Gemstone": {
+    "img": "https://wiki.hypixel.net/images/4/45/SkyBlock_items_perfect_onyx_gem.png",
+    "hotm": 7,
+    "ref": "BZ:PERFECT_ONYX_GEM",
+    "input": {
+      "BZ:FLAWLESS_ONYX_GEM": 5,
+      "NULL:Onyx Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Citrine Gemstone": {
+    "img": "https://wiki.hypixel.net/images/c/c0/SkyBlock_items_perfect_citrine_gem.png",
+    "hotm": 7,
+    "ref": "BZ:PERFECT_CITRINE_GEM",
+    "input": {
+      "BZ:FLAWLESS_CITRINE_GEM": 5,
+      "NULL:Citrine Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Aquamarine Gemstone": {
+    "img": "https://wiki.hypixel.net/images/2/2b/SkyBlock_items_perfect_aquamarine_gem.png",
+    "hotm": 7,
+    "ref": "BZ:PERFECT_AQUAMARINE_GEM",
+    "input": {
+      "BZ:FLAWLESS_AQUAMARINE_GEM": 5,
+      "NULL:Aquamarine Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Perfect Peridot Gemstone": {
+    "img": "https://wiki.hypixel.net/images/9/92/SkyBlock_items_perfect_peridot_gem.png",
+    "hotm": 7,
+    "ref": "BZ:PERFECT_PERIDOT_GEM",
+    "input": {
+      "BZ:FLAWLESS_PERIDOT_GEM": 5,
+      "NULL:Peridot Crystal": 1
+    },
+    "time": "20h",
+    "rarity": "LEGENDARY"
+  },
+  "Bejeweled Collar": {
+    "img": "https://wiki.hypixel.net/images/d/d9/SkyBlock_items_bejeweled_collar.png",
+    "hotm": 2,
+    "ref": "Bejeweled Collar",
+    "input": {
+      "Refined Mithril": 4,
+      "Bejeweled Handle": 1
+    },
+    "time": "2h",
+    "rarity": "RARE"
+  },
+  "Mole Pet": {
+    "img": "https://wiki.hypixel.net/images/3/3d/SkyBlock_pets_mole.png",
+    "hotm": 4,
+    "ref": "Mole Pet",
+    "input": {
+      "Claw Fossil": 1,
+      "COINS": 300000
+    },
+    "time": "3d",
+    "rarity": "LEGENDARY"
+  },
+  "Ammonite Pet": {
+    "img": "https://wiki.hypixel.net/images/3/38/SkyBlock_pets_ammonite.png",
+    "hotm": 4,
+    "ref": "Ammonite Pet",
+    "input": {
+      "Helix Fossil": 1,
+      "COINS": 300000
+    },
+    "time": "3d",
+    "rarity": "LEGENDARY"
+  },
+  "Penguin Pet": {
+    "img": "https://wiki.hypixel.net/images/1/12/SkyBlock_pets_penguin.png",
+    "hotm": 7,
+    "ref": "Penguin Pet",
+    "input": {
+      "Webbed Fossil": 1,
+      "BZ:FLAWLESS_AQUAMARINE_GEM": 1
+    },
+    "time": "7d",
+    "rarity": "LEGENDARY"
+  },
+  "T-Rex Pet": {
+    "img": "https://wiki.hypixel.net/images/4/4e/SkyBlock_pets_tyrannosaurus.png",
+    "hotm": 7,
+    "ref": "T-Rex Pet",
+    "input": {
+      "Footprint Fossil": 1,
+      "BZ:FLAWLESS_ONYX_GEM": 1
+    },
+    "time": "7d",
+    "rarity": "LEGENDARY"
+  },
+  "Spinosaurus Pet": {
+    "img": "https://wiki.hypixel.net/images/5/5c/SkyBlock_pets_spinosaurus.png",
+    "hotm": 7,
+    "ref": "Spinosaurus Pet",
+    "input": {
+      "Spine Fossil": 1,
+      "BZ:FLAWLESS_AQUAMARINE_GEM": 1
+    },
+    "time": "7d",
+    "rarity": "LEGENDARY"
+  },
+  "Goblin Pet": {
+    "img": "https://wiki.hypixel.net/images/9/93/SkyBlock_pets_goblin.png",
+    "hotm": 7,
+    "ref": "Goblin Pet",
+    "input": {
+      "Ugly Fossil": 1,
+      "BZ:FLAWLESS_AMBER_GEM": 1
+    },
+    "time": "7d",
+    "rarity": "LEGENDARY"
+  },
+  "Ankylosaurus Pet": {
+    "img": "https://wiki.hypixel.net/images/1/1d/SkyBlock_pets_ankylosaurus.png",
+    "hotm": 7,
+    "ref": "Ankylosaurus Pet",
+    "input": {
+      "Clubbed Fossil": 1,
+      "BZ:FLAWLESS_OPAL_GEM": 1
+    },
+    "time": "7d",
+    "rarity": "LEGENDARY"
+  },
+  "Mammoth Pet": {
+    "img": "https://wiki.hypixel.net/images/6/69/SkyBlock_pets_mammoth.png",
+    "hotm": 7,
+    "ref": "Mammoth Pet",
+    "input": {
+      "Tusk Fossil": 1,
+      "BZ:FLAWLESS_ONYX_GEM": 1
+    },
+    "time": "7d",
+    "rarity": "LEGENDARY"
+  },
+  "Beacon II": {
+    "img": "https://wiki.hypixel.net/images/4/43/SkyBlock_items_enchanted_beacon.gif",
+    "hotm": 2,
+    "ref": "Beacon II",
+    "input": {
+      "Beacon I": 1,
+      "Refined Mithril": 5
+    },
+    "time": "20h",
+    "rarity": "RARE"
+  },
+  "Beacon III": {
+    "img": "https://wiki.hypixel.net/images/4/43/SkyBlock_items_enchanted_beacon.gif",
+    "hotm": 3,
+    "ref": "Beacon III",
+    "input": {
+      "Beacon II": 1,
+      "Refined Mithril": 10
+    },
+    "time": "1d 6h",
+    "rarity": "EPIC"
+  },
+  "Beacon IV": {
+    "img": "https://wiki.hypixel.net/images/4/43/SkyBlock_items_enchanted_beacon.gif",
+    "hotm": 4,
+    "ref": "Beacon IV",
+    "input": {
+      "Beacon III": 1,
+      "Refined Mithril": 20,
+      "BZ:PLASMA": 1
+    },
+    "time": "1d 16h",
+    "rarity": "EPIC"
+  },
+  "Beacon V": {
+    "img": "https://wiki.hypixel.net/images/4/43/SkyBlock_items_enchanted_beacon.gif",
+    "hotm": 5,
+    "ref": "Beacon V",
+    "input": {
+      "Beacon IV": 1,
+      "Refined Mithril": 40,
+      "BZ:PLASMA": 5
+    },
+    "time": "2d 2h",
+    "rarity": "EPIC"
+  },
+  "Travel Scroll To The Dwarven Forge": {
+    "img": "https://wiki.hypixel.net/images/b/b6/Minecraft_items_empty_map.png",
+    "hotm": 2,
+    "ref": "Travel Scroll To The Dwarven Forge",
+    "input": {
+      "BZ:MITHRIL_ORE": 48,
+      "BZ:TITANIUM_ORE": 80,
+      "BZ:ENCHANTED_ENDER_PEARL": 16,
+      "COINS": 25000
+    },
+    "time": "5h",
+    "rarity": "RARE"
+  },
+  "Travel Scroll To The Dwarven Base Camp": {
+    "img": "https://wiki.hypixel.net/images/b/b6/Minecraft_items_empty_map.png",
+    "hotm": 7,
+    "ref": "Travel Scroll To The Dwarven Base Camp",
+    "input": {
+      "BZ:ENCHANTED_ENDER_PEARL": 16,
+      "BZ:FLAWLESS_ONYX_GEM": 1,
+      "COINS": 500000
+    },
+    "time": "10h",
+    "rarity": "RARE"
+  },
+  "Power Crystal": {
+    "img": "https://wiki.hypixel.net/images/a/ac/SkyBlock_items_enchanted_nether_star.gif",
+    "hotm": 2,
+    "ref": "BZ:POWER_CRYSTAL",
+    "input": {
+      "BZ:STARFALL": 256
+    },
+    "time": "2h",
+    "rarity": "EPIC"
+  },
+  "Secret Railroad Pass": {
+    "img": "https://wiki.hypixel.net/images/3/3a/SkyBlock_items_enchanted_paper.gif",
+    "hotm": 7,
+    "ref": "Secret Railroad Pass",
+    "input": {
+      "BZ:CORLEONITE": 8,
+      "Refined Mithril": 2,
+      "BZ:FLAWLESS_RUBY_GEM": 1
+    },
+    "time": "30s",
+    "rarity": "SPECIAL"
+  },
+  "Tungsten Key": {
+    "img": "https://wiki.hypixel.net/images/8/80/SkyBlock_items_enchanted_lever.gif",
+    "hotm": 7,
+    "ref": "Tungsten Key",
+    "input": {
+      "BZ:ENCHANTED_TUNGSTEN": 192,
+      "Bejeweled Handle": 1
+    },
+    "time": "30m",
+    "rarity": "EPIC"
+  },
+  "Umber Key": {
+    "img": "https://wiki.hypixel.net/images/c/ce/SkyBlock_items_enchanted_dead_bush.gif",
+    "hotm": 7,
+    "ref": "Umber Key",
+    "input": {
+      "BZ:ENCHANTED_UMBER": 192,
+      "Bejeweled Handle": 1
+    },
+    "time": "30m",
+    "rarity": "EPIC"
+  },
+  "Skeleton Key": {
+    "img": "https://wiki.hypixel.net/images/c/c5/Minecraft_items_tripwire_hook.png",
+    "hotm": 10,
+    "ref": "Skeleton Key",
+    "input": {
+      "Perfect Plate": 1,
+      "Bejeweled Handle": 1
+    },
+    "time": "30m",
+    "rarity": "LEGENDARY"
+  },
+  "Portable Campfire": {
+    "img": "https://wiki.hypixel.net/images/e/eb/Minecraft_items_furnace.png",
+    "hotm": 8,
+    "ref": "Portable Campfire",
+    "input": {
+      "Match-Sticks": 16,
+      "Refined Umber": 1
+    },
+    "time": "30m",
+    "rarity": "RARE"
+  },
+  "Artifact of Power": {
+    "img": "https://wiki.hypixel.net/images/1/1c/SkyBlock_items_power_artifact.png",
+    "hotm": -1,
+    "ref": "Artifact of Power",
+    "input": {
+      "Gemstone Mixture": 32,
+      "Ring of Power": 1
+    },
+    "time": "0s",
+    "rarity": "RARE"
+  },
+  "Ring of Power": {
+    "img": "https://wiki.hypixel.net/images/f/fc/SkyBlock_items_power_ring.png",
+    "hotm": -1,
+    "ref": "Ring of Power",
+    "input": {
+      "Gemstone Mixture": 1,
+      "BZ:FINE_RUBY_GEM": 7,
+      "Talisman of Power": 1
+    },
+    "time": "0s",
+    "rarity": "UNCOMMON"
+  },
+  "Talisman of Power": {
+    "img": "https://wiki.hypixel.net/images/8/86/SkyBlock_items_power_talisman.png",
+    "hotm": -1,
+    "ref": "Talisman of Power",
+    "input": {
+      "BZ:FLAWED_RUBY_GEM": 45
+    },
+    "time": "0s",
+    "rarity": "COMMON"
+  }
+}
